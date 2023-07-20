@@ -1,9 +1,13 @@
 # tawesome-eda
 
-# Data Story: Exploring the World of Pokémon
+# Data Story: Unveiling the World of Pokémon:  Exploring Types, Strengths, and Weakness
 
 ## Introduction
 The world of Pokémon is full of captivating creatures with unique abilities and attributes. As Pokémon trainers, we strive to understand the strengths and weaknesses of different species to build formidable teams. In this data story, we will explore how a Pokémon's Attack and Defense attributes are related and how they determine its strength or weakness in battles.
+
+## Workflow
+![Project Workflow](./assets/workflow.png)
+                    Figure1: proposed overview of our visual data storytelling approach
 
 ## Data Exploration
 
