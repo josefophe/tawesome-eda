@@ -35,3 +35,8 @@ Through our data analysis, we aim to uncover valuable insights that Pokémon tra
 - Plotly: An interactive visualization library that supports creating interactive charts, plots, and dashboards. It offers a range of features for exploratory data analysis.
 - Jupyter Notebook: Used for the step-by-step data exploration and analysis.
 - Tableau: A comprehensive data visualization tool that allows you to create interactive dashboards, reports, and visualizations. It provides a user-friendly interface for both beginners and advanced users.
+
+
+## Screen Recording:
+We have recorded our data exploration and visualization process in a Jupyter Notebook. You can watch the screen recording [here]([https://example.com/screen-recording](https://drive.google.com/file/d/1JQIrcBEVUxGg09wBhKxz_F81-Ioanfo6/view?usp=sharing)https://drive.google.com/file/d/1JQIrcBEVUxGg09wBhKxz_F81-Ioanfo6/view?usp=sharing).
+
